@@ -1,2 +1,2 @@
 # cloud-forge
-A self service cloud application deployment Platform that demonstrates with deployment parameters. CloudForge automatically provisions the required infrastructure and deploys the application to Kubernetes without the developer manually touching AWS, Terraform or Kubernetes.
+A self service Cloud Application Deployment Platform that demonstrates deployment parameters. CloudForge automatically provisions required infrastructure and deploys the application to Kubernetes without the dev manually touching AWS, Terraform, or Kubernetes.
